@@ -23,7 +23,7 @@ This is the TodoApp developed for the Coding Challenge. The application allows u
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/TodoApp.git
+   git clone https://github.com/rene-alas-telus/TodoApp.git
    cd TodoApp
    npm install
    ```
