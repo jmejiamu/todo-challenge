@@ -26,4 +26,5 @@ This is the TodoApp developed for the Coding Challenge. The application allows u
    git clone https://github.com/rene-alas-telus/TodoApp.git
    cd TodoApp
    npm install
+   npx expo start
    ```
